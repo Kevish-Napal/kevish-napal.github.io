@@ -20,3 +20,14 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+    develop:
+      watch:
+        # content/config edits are already synced live via the bind mount above
+        # and picked up by jekyll's own --watch/--force_polling + livereload.
+        # Only Gemfile/Dockerfile changes need a full image rebuild.
+        - action: rebuild
+          path: ./Gemfile
+        - action: rebuild
+          path: ./Gemfile.lock
+        - action: rebuild
+          path: ./Dockerfile

@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Kevish-Napal
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Kevish-Napal/EffectiveTMatrix.jl
+  - Kevish-Napal/PoroElasticity
+  - Kevish-Napal/crack-network-imaging
+  - Kevish-Napal/defect-detection-ultrasound
+  - Kevish-Napal/cloaking-with-resonators
+  - Kevish-Napal/ElasticPlate
