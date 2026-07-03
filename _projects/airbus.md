@@ -2,7 +2,7 @@
 layout: page
 title: Photogrammetry and LiDAR analysis at Airbus
 description: Designed a computer vision solution using LiDAR and photogrammetry data to assist aircraft fuselage inspection. # The prototype helped automate geometric analysis and contributed to reducing A350 repair costs.
-img: assets/img/reconvertai/airbus-vehicle.png
+img: assets/img/reconvertai/blender-inspect-area.png
 importance: 2
 category: Machine Learning
 giscus_comments: false

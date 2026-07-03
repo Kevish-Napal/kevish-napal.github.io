@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A mix of academical and industrial projects
+description: An overview of my industrial and academical projects
 nav: true
 nav_order: 1
 display_categories: [Machine Learning, Inverse Problems, Waves in Complex Materials]

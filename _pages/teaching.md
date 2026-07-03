@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials I taught at Sorbonne Universite during my PhD (2016-2019)
 nav: true
 nav_order: 5
