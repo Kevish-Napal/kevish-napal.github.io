@@ -14,7 +14,7 @@ calendar: true
 
 
 #### <span style="color:turquoise"> 1. Numerical methods for differential equations (2016-2018) L3 </span>
-Tutorial sessions and practical exercises on Python for the lectures of Marie Postel.
+Tutorial sessions and practical exercises on Python for the lectures of Marie Postel. 
 
 
 #### <span style="color:turquoise"> 2. Error-correcting codes \& Cryptography (2018-2019) L2 </span>
