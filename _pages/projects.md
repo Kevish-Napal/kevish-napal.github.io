@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A mix of academical and industrial projects
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [Machine Learning, Inverse Problems, Waves in Complex Materials]
 horizontal: false
 ---
