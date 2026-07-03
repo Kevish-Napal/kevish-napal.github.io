@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.sheffield.ac.uk/mecheng'>Department of Mechanical Engineering, University of Sheffield, Sheffield, UK
+# subtitle: <a href='https://www.sheffield.ac.uk/mecheng'>Department of Mechanical Engineering, University of Sheffield, Sheffield, UK
 
 profile:
   align: right
@@ -30,13 +30,13 @@ latest_posts:
 <h3 style="text-align: center;">Welcome to my website!</h3>
 
 
-You will find here a description of my projects and research activities.
+I am an applied mathematician and machine learning researcher working at the interface between research, data, and industrial applications.
 
-I develop innovative imaging techniques to probe highly heterogeneous materials based on measurements of scattered waves. 
+My work focuses on developing robust machine learning methods for complex scientific and engineering data, including imaging, biomedical data, LiDAR, and structured industrial datasets.
 
-To achieve this, I establish mathematical models describing the behavior of waves in complex environments that may cause resonances and nonlinear phenomena.
+After several years in academic research on inverse problems, wave propagation, and computational modelling, I transitioned toward applied AI through projects with industrial partners including Airbus, AXA, Natixis, and Barnacle Labs.
 
-Finally, I design software that integrates my results, thus allowing validation and online accessibility.
+I am particularly interested in Knowledge Transfer Partnerships where advanced modelling, machine learning, and scientific software can be translated into practical tools with measurable impact.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 

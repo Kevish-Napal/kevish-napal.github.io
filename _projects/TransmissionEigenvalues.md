@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sampling Methods
-description: an efficient method that I extend to new scenarios
+title: PhD Research
+description: Developed mathematical and computational methods for imaging highly heterogeneous materials using scattered waves. My PhD combined inverse problems, wave propagation, asymptotic modelling, and numerical simulation to design imaging techniques capable of probing complex media with resonant or strongly scattering structures.
 img: assets/img/TransmissionEigenvalue/transmission_eigenvalue2.png
 redirect: https://theses.hal.science/tel-02885422v1/document
 importance: 2
-category: Inverse Scattering Problems
-giscus_comments: true
+category: Inverse Problems
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: crack densities
-description: a novel approach for quantifying damage level
+title: Crack Density Estimation
+description: Developed a novel wave-based methodology to estimate material damage by analysing shifts in resonant frequencies. This approach is particularly adapted to dense aggregates of small defects or inclusions, such as cracks, where the collective scattering response provides information about the internal damage level.
 img: assets/img/CrackNetwork/cracknetwork2.png
 redirect: https://arxiv.org/pdf/2006.10342.pdf
 importance: 2
-category: Inverse Scattering Problems
-giscus_comments: true
+category: Inverse Problems
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

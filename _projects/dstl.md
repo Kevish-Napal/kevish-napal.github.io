@@ -1,10 +1,10 @@
 ---
 layout: page
-title: cloaking
-description: the use of resonators in a metasurface allows to filter specific frequencies. This project was supported by dstl.
+title: Cloaking with Resonators - DSTL
+description: Developed a proof of concept in collaboration with the UK Defence Science and Technology Laboratory, investigating resonant material layers for wave control and stealth-related applications. The project combined mathematical modelling, numerical simulation, and physical insight into wave scattering in complex media. 
 img: assets/img/SummerInternship2022/resonators.png
-importance: 2
-category: Random Media
+importance: 3
+category: Waves in Complex Materials
 giscus_comments: false
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: poroelasticity
-description: imaging of hydraulic fractures with elastic waveforms and/or pore pressure measurements
+title: Poroelastic Crack Detection
+description: Worked on computational methods for detecting cracks in poroelastic media, with applications to subsurface monitoring and hydraulic fracturing. The project involved adapting finite-element methods to solve Biot’s equations and model how waves scatter from cracks in fluid-saturated materials.
 img: assets/img/Poroelasticity/poro.png
 redirect: https://arxiv.org/pdf/2105.00661.pdf
 importance: 2
-category: Inverse Scattering Problems
-giscus_comments: true
+category: Inverse Problems
+giscus_comments: false
 ---
 
 Simply put the paper with Fatemeh here
